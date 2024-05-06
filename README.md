@@ -1,5 +1,5 @@
 # CTEC-Network-Tester
-Code for a device used to connect to and troubleshoot network devices at CTEC.
+Code for a device used to connect to and troubleshoot network devices at CTEC. It reads and prints out the IPs and MAC addresses of all devices on the network, excluding those of the router and Raspberry Pi.
 
 ## Troubleshooting
 
